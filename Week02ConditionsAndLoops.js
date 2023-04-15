@@ -4,12 +4,10 @@
    Subject:  Conditions and Loops Lab
    FE Lab 02
 */
-
-/** Key Terms:
  *  Boolean Operators
  *  Loop
  *   - for
- *   - for of
+ *   - for ofcd
  *   - while
  *   - do while
  *  
